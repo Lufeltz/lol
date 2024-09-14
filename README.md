@@ -11,8 +11,7 @@ git clone https://github.com/Lufeltz/lol.git
 
 * [Git](https://www.git-scm.com/downloads)
 * [Node.js](https://nodejs.org/en/download/package-manager)
-* [Java 21(Recomendado)](https://www.oracle.com/br/java/technologies/
-downloads/#jdk21-windows)
+* [Java 21](https://www.oracle.com/br/java/technologies/downloads/#jdk21-windows)
     * Nota: Para evitar problemas futuros, antes de instalar a versão 21 confirme se já existe uma versão do java sdk instalado no seu sistema usando: <code>java --version</code>. Em caso positivo, desinstale a versão atual e prossiga com a instalação do Java 21.
 * [PostgreSQL 16.4](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
     * Nota: foi utilizado login e senha postgres e porta 5432 para comunicação com o PostgreSQL
