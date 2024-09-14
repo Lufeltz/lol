@@ -79,7 +79,7 @@ Watch mode enabled. Watching for file changes...
   ➜  press h + enter to show help
 ```
 
-* Agora para a configuração do server, acesse diretório server e abra outra instância do Vs Code
+* Agora para a configuração do server, acesse diretório server e abra outra instância do VS Code
 ```
 cd lol/server
 code .
@@ -89,7 +89,8 @@ code .
     * Extension Pack for Java
     * Spring Boot Dashboard
 
-* Antes de executar o projeto será necessário a criação da database lol no PostgreSQL. Para auxiliar nessa execução adicione a pasta contendo o binário do PostgreSQL ao PATH das variáveis de ambiente do seu [Tutorial](https://www.youtube.com/watch?v=awzSkaDoA38)
+* Antes de executar o projeto será necessário a criação da database lol no PostgreSQL. Para auxiliar nessa execução adicione a pasta contendo o binário do PostgreSQL ao PATH das variáveis de ambiente do seu sistema
+    * [Tutorial](https://www.youtube.com/watch?v=awzSkaDoA38)
 
 * Feito isso acesse o seu banco de dados PostgreSQL no terminal
 
@@ -110,4 +111,4 @@ postgres=# CREATE DATABASE lol;
 CREATE DATABASE
 ```
 
-* Após esses passos faça a execução do projeto do server acessando a extensão do Spring Boot Dashboard e em APPS clique em lol e depois no botão de play. Aguarde a execução e acesse a aplicação Web em http://localhost:4200/
+* Após esses passos faça a execução do projeto do server acessando a extensão do Spring Boot Dashboard no VS Code, vá em APPS, clique em lol e depois no botão de play. Aguarde a execução e acesse a aplicação Web em http://localhost:4200/
