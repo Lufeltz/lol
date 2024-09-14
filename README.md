@@ -9,6 +9,7 @@ git clone https://github.com/Lufeltz/lol.git
 ```
 #### Antes de executar o projeto é necessário o download de algumas ferramentas
 
+* [Git](https://www.git-scm.com/downloads)
 * [Node.js](https://nodejs.org/en/download/package-manager)
 * [Java 21(Recomendado)](https://www.oracle.com/br/java/technologies/downloads/#jdk21-windows)
 * [PostgreSQL 16.4](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
@@ -17,6 +18,9 @@ git clone https://github.com/Lufeltz/lol.git
 #### Confirmar que todos os arquivos foram instalados corretamente através do terminal
 * Nota: As versões podem variar
 ```
+git --version
+git version 2.46.0.windows.1
+
 java --version
 java 21.0.4 2024-07-16 LTS
 Java(TM) SE Runtime Environment (build 21.0.4+8-LTS-274)
