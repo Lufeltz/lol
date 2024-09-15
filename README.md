@@ -117,3 +117,15 @@ CREATE DATABASE
 ```
 
 * Após esses passos faça a execução do projeto do server acessando a extensão do Spring Boot Dashboard no VS Code, vá em APPS, clique em lol e depois no botão de play. Aguarde a execução e acesse a aplicação Web em http://localhost:4200/
+
+* O login pode ser feito com dois tipos de usuários
+```
+// funcionario
+maria@gmail.com
+pass
+```
+```
+// cliente
+joao@gmail.com
+pass
+```
